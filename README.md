@@ -45,6 +45,7 @@ En algunas partes de README.md , encontraras palabras entre <> y  seguida de un 
 	docker run -d -p 5000:5000 <variable!>
 	``` 
 	⚠️ El flag -d es para ejecutar el contendor en segundo plano. .
+    
 	⚠️ El flag -p indica el mapeo de puertos del host al contenedor de docker. 
 ## Autor
 **Nombre**: Jesus Ignacio Castillo Barrios - jesus.castillo.b@cinvestav.mx
